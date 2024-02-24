@@ -44,6 +44,6 @@ Traceback(most recent call last):
 # Output: TypeError: last_name must be a string
 
 # Verifying for more than 2 input:
->>> say_my_name("Blessing", "Ogechi", "Udeji")
+>>> say_my_name("Silas", "Ebi", "Elehibiri")
 Traceback(most recent call last):
 # Output: TypeError: say_my_name() takes from 1 to 2 positional arguments but 3 were given
